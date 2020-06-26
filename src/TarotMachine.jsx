@@ -8,7 +8,7 @@ class TarotMachine extends Component{
         
         this.state = {
             card: {
-            number: "Este tarot possui 22 que correspondem aos Arcanos Maiores. As cartas deste baralho foram criadas pelo místico e ocultista inglês Arthur Edward Waite (02.10.1857 – 19.05.1942) e ilustradas por Pamela Colman Smith (16.02.1878 – 18.09.1951). ",
+            number: "Este tarot possui 22 cartas que correspondem aos Arcanos Maiores. As cartas deste baralho foram criadas pelo místico e ocultista inglês Arthur Edward Waite (02.10.1857 – 19.05.1942) e ilustradas por Pamela Colman Smith (16.02.1878 – 18.09.1951). ",
             image: "assets/front-tarot.svg",
             upright:"Possui a energia predominante da carta quando ela está virada para cima",            
             oracle:"Traz concelhos do oráculo para aplicar na vida prática. Nesta sessão você entenderá o caminho que deve seguir",
