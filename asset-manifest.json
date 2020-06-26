@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/magic-tarot-react/static/css/main.3e54d869.chunk.css",
-    "main.js": "/magic-tarot-react/static/js/main.0081b7e4.chunk.js",
-    "main.js.map": "/magic-tarot-react/static/js/main.0081b7e4.chunk.js.map",
+    "main.js": "/magic-tarot-react/static/js/main.9fb251c3.chunk.js",
+    "main.js.map": "/magic-tarot-react/static/js/main.9fb251c3.chunk.js.map",
     "runtime-main.js": "/magic-tarot-react/static/js/runtime-main.f56dbf49.js",
     "runtime-main.js.map": "/magic-tarot-react/static/js/runtime-main.f56dbf49.js.map",
     "static/css/2.af3c1da9.chunk.css": "/magic-tarot-react/static/css/2.af3c1da9.chunk.css",
     "static/js/2.8cc90975.chunk.js": "/magic-tarot-react/static/js/2.8cc90975.chunk.js",
     "static/js/2.8cc90975.chunk.js.map": "/magic-tarot-react/static/js/2.8cc90975.chunk.js.map",
     "index.html": "/magic-tarot-react/index.html",
-    "precache-manifest.9ffd4de4330b5f294119816d6c3390d7.js": "/magic-tarot-react/precache-manifest.9ffd4de4330b5f294119816d6c3390d7.js",
+    "precache-manifest.2f768591c9e9fc7a8d16b192bfb0ed09.js": "/magic-tarot-react/precache-manifest.2f768591c9e9fc7a8d16b192bfb0ed09.js",
     "service-worker.js": "/magic-tarot-react/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/magic-tarot-react/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.3e54d869.chunk.css.map": "/magic-tarot-react/static/css/main.3e54d869.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.8cc90975.chunk.js",
     "static/css/main.3e54d869.chunk.css",
-    "static/js/main.0081b7e4.chunk.js"
+    "static/js/main.9fb251c3.chunk.js"
   ]
 }
