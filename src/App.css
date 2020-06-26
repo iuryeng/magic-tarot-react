@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+ 
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.tirarCarta{
+  margin-bottom: 10px;
+}
+
+
+
+span{  
+  background-color:#adb36e; 
+  border: solid darkolivegreen 1.0px; 
+  color:#332a19;
+  padding: 6px;
+  padding-bottom: 7px;
+  position: relative; 
+  bottom: 10px;
+  border-bottom-left-radius: 40%;
+  border-bottom-right-radius: 40%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.menu-bar{  
+  
+  border-bottom-left-radius: 40%;
+  border-bottom-right-radius: 40%; 
+  opacity: 0.9;
+  height: 60px;
+  background-color: #464928;
+ 
+}
+
+
+
+button{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 2px;;
+  border: none;
+  background-color: transparent;
+  color: whitesmoke;
+}
+
+.text-magic-link {
+ text-decoration: none;
+ color:white;
+}
+
+.text-magic-link:hover {
+  text-decoration: none;
+  color:white;
+ }
+
+
+button,
+button:active,
+button:focus, 
+button:hover,
+.btn,
+.btn:active, 
+.btn:focus, 
+.btn:hover{   
+    outline:none !important;
+}
+
+
+i{
+  color:whitesmoke;
+  
+  
+}
+
