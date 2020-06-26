@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96b250cf3a4635d0249288adb03be55d",
+    "revision": "68033e5b5c0a61cd4a499b0166e66c28",
     "url": "/magic-tarot-react/index.html"
   },
   {
